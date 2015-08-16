@@ -26,5 +26,8 @@
     "was-event-outside-element": "^0.1.0",
     "watchify": "^3.3.1",
     "xtend": "^4.0.0"
+  },
+  "dependencies": {
+    "open": "0.0.5"
   }
 }
